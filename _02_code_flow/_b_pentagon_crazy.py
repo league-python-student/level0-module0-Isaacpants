@@ -18,13 +18,13 @@ if __name__ == '__main__':
     colors = ('red','blue','green','yellow','orange')
     
     # Make a new turtle
-    
+    isaac = turtle.Turtle()
     # Make the turtle shape 'turtle', .shape('turtle')
-    
+    isaac.shape('tutle')
     # Set the turtle speed to max (0)
-    
+    isaac.speed(max(0))
     # Set the turtle width to 1
-    
+    isaac.width(1)
     # Create a variable to hold the number of sides in a pentagon
     
     # Create a variable to be the angle of 360 divided by the sides variable
